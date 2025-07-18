@@ -2,9 +2,9 @@ Metadata-Version: 2.4
 Name: vibecheck
 Version: 0.1.0
 Summary: A linter for good vibes only.
-Home-page: https://github.com/chasehudson/vibecheck
+Home-page: https://github.com/chaserhudson/vibecheck
 Author: Chase Hudson
-Author-email: chase@example.com
+Author-email: chase.w.hudson@gmail.com
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
