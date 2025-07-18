@@ -15,7 +15,7 @@ setup(
     description="A linter for good vibes only.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/chasehudson/vibecheck", # Replace with your GitHub repo URL
+    url="https://github.com/chaserhudson/vibecheck", 
     py_modules=["vibecheck"],
     install_requires=requirements,
     classifiers=[
