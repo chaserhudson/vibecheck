@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: vibecheck
+Version: 0.1.0
+Summary: A linter for good vibes only.
+Home-page: https://github.com/chasehudson/vibecheck
+Author: Chase Hudson
+Author-email: chase@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Quality Assurance
+Classifier: Topic :: Scientific/Engineering :: Astronomy
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# VibeCheck
+A linter for good vibes only.
