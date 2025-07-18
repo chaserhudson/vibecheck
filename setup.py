@@ -11,7 +11,7 @@ setup(
     name="vibecheck",
     version="0.1.0",
     author="Chase Hudson",
-    author_email="chase@example.com",
+    author_email="chase.w.hudson@gmail.com",
     description="A linter for good vibes only.",
     long_description=long_description,
     long_description_content_type="text/markdown",
