@@ -19,7 +19,7 @@ Forget about traditional linters that check for syntax errors and code style. Vi
 
 ```bash
 # Clone the repository
-git clone https://github.com/chasehudson/vibecheck.git # Replace with your repo URL
+git clone https://github.com/chaserhudson/vibecheck.git 
 cd vibecheck
 
 # Create and activate a virtual environment
